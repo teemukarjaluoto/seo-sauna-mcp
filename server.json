@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.teemukarjaluoto/seo-sauna",
   "title": "SEO Sauna",
-  "description": "Live SEO data for AI agents: keywords, SERPs, rank tracking, audits, backlinks, GSC, GA4, AI visibility.",
+  "description": "SEO data for AI agents: keywords, SERPs, rank tracking, audits, backlinks, GSC and AI visibility.",
   "websiteUrl": "https://seosauna.com",
   "repository": {
     "url": "https://github.com/teemukarjaluoto/seo-sauna-mcp",
